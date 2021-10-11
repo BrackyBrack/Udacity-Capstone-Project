@@ -4,7 +4,7 @@
 This is my submission for the Udacity Data Science Capstone Project. I have been working with the Starbucks dataset to understand how offers impact customer behaviour. In this project I explore 2 avenues. First of all, does providing customers with offers impact their behaviour. The metrics I will be using to measure impact on customer behaviour are spend per transaction, and transactions per day. Seeing a rise in either of these metrics will signal a positive impact on customer behaviour. The second area of exploration will be to see which offers have the biggest impact on which customer group.
 
 ### Results
-The findings, and techniques user within this project are discussed [here](https://david-bracken.medium.com/udacity-data-science-capstone-project-starbucks-data-set-8c399c96361c)
+The findings, and techniques user within this project are discussed [here](https://david-bracken.medium.com/data-science-capstone-project-starbucks-dataset-76e6a4e88add)
 During the Notebook there are several markdown cells discussing findings as I go, and reasoning behind decisions made. 
 
 ### Installation
