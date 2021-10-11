@@ -19,6 +19,6 @@ All the code for this project is contained within a Jupyter Notebook. The code i
 All data was provided by Udacity, with special thanks to Starbucks.
 I would also like to thank the authors of the following articles:
 
-https://machinelearningmastery.com/feature-selection-machine-learning-python/
-https://machinelearningmastery.com/rfe-feature-selection-in-python/
-https://machinelearningmastery.com/repeated-k-fold-cross-validation-with-python/
+- https://machinelearningmastery.com/feature-selection-machine-learning-python/
+- https://machinelearningmastery.com/rfe-feature-selection-in-python/
+- https://machinelearningmastery.com/repeated-k-fold-cross-validation-with-python/
